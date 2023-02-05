@@ -1,7 +1,7 @@
 # -studyProject5_workoutApp
 <h1>About the Project</h1>
 <br>
-WorkoutApp is a vanilla JavaScript application that interacts with the Leaflet library and display Map. he user can add workouts for running and cycling and these are stored via local storage.
+WorkoutApp is a vanilla JavaScript application that interacts with the Leaflet library and display Map. The user can add workouts for running and cycling and these are stored via local storage.
 
 <br>
 <br>
